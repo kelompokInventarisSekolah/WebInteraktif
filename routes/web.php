@@ -21,7 +21,7 @@ Route::get('/', function () {
 Route::get('/about', [LandingController::class,'about'])->name('about');
 Route::get('/contact', [LandingController::class,'contact'])->name('contact');
 Route::get('/detail/{id}', [LandingController::class,'detail'])->name('detail');
-
+Route::post('/home', [LandingController::class,'tambah_contact'])->name('tambah_contact');
 
 
 Route::group(['prefix' => 'admin'], function () {
