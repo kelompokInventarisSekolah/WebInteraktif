@@ -22,7 +22,7 @@
                                 <div class="row justify-content-center">
                                     <div class="col-md-6 text-center mb-4">
                                         <h2 class="heading-section">Login</h2>
-                                        <h3 class="heading-section">Inventaris Sarana Prasarana Sekolah</h3>
+                                        <h3 class="heading-section">StarbhakNEWS</h3>
                                     </div>
                                 </div>
                                 <div class="form-group text-black">
